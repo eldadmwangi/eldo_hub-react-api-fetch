@@ -1,0 +1,21 @@
+*body{
+    margin: 0;
+    background-color: gray;
+
+}
+.fetch__jokes {
+    width: 100%px;
+
+}
+.jokes__container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+}
+.select__option {
+    position: relative;
+    display: flex;
+    width: 50%;
+    margin: 5px;   
+}  
